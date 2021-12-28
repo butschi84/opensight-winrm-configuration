@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>opensight_winrm_configuration</id>
+    <version>1.0.0</version>
+    <packageSourceUrl>https://opensight.ch</packageSourceUrl>
+    <owners>r.huesler (opensight.ch)</owners>
+    <title>opensight - winrm_configuration</title>
+    <authors>r.huesler (opensight.ch)</authors>
+    <projectUrl>https://opensight.ch</projectUrl>
+    <tags>opensight winrm configuration</tags>
+    <summary>opensight winrm configuration</summary>
+    <description>opensight winrm configuration</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
